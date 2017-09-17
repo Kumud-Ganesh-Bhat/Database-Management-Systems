@@ -2,7 +2,7 @@
 CSCI54100 : CONCURENCY CONTROL TECHNIQUES
 HADOOP DISTRIBUTED FILE SYSTEM
 SRC : StrictTwoPhaseLocking.java
-AUTHORS : KARTIK SOOJI, KUMUD BHAT, CURAM SUNDARAM NARASIMHAN 
+AUTHOR : KUMUD BHAT
 ==============================================================================================================================
 
 Few classes and methods are implemented in the process. 
